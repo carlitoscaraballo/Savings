@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camsoft.Easybank.Savings.API", "Camsoft.Easybank.Savings.API\Camsoft.Easybank.Savings.API.csproj", "{99BA2A4A-EE5D-47D8-A69D-CFB3EF8CE25B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camsoft.Easybank.Savings.Domain", "Camsoft.Easybank.Savings.Domain\Camsoft.Easybank.Savings.Domain.csproj", "{688B57C0-30D8-4034-8329-0E06A21F4885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BA2A4A-EE5D-47D8-A69D-CFB3EF8CE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BA2A4A-EE5D-47D8-A69D-CFB3EF8CE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BA2A4A-EE5D-47D8-A69D-CFB3EF8CE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BA2A4A-EE5D-47D8-A69D-CFB3EF8CE25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688B57C0-30D8-4034-8329-0E06A21F4885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688B57C0-30D8-4034-8329-0E06A21F4885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688B57C0-30D8-4034-8329-0E06A21F4885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688B57C0-30D8-4034-8329-0E06A21F4885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B94DE6-7289-4C3A-A6D8-0A5063784254}
+	EndGlobalSection
+EndGlobal
